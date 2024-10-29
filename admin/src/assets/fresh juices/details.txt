@@ -1,0 +1,29 @@
+apple juice
+$50
+Our apple juice is a refreshing and naturally sweet drink made from freshly pressed apples. Crisp and flavorful, it’s perfect for quenching your thirst, whether enjoyed on its own or as a complement to your meal. Pure, delicious, and packed with vitamins!
+
+orange juice
+$50
+Our orange juice is a vibrant and refreshing drink, made from freshly squeezed oranges for a burst of natural sweetness. Packed with vitamin C, it’s the perfect way to start your day or enjoy a revitalizing pick-me-up anytime!
+
+mosambi juice
+$50
+Our mosambi juice is a refreshing and tangy drink made from freshly squeezed sweet limes. Light and flavorful, it's a delightful thirst-quencher, packed with vitamin C and perfect for enjoying any time of day!
+
+pomegranate juice
+$60
+Our pomegranate juice is a rich and vibrant drink, made from freshly pressed pomegranates. Naturally sweet and bursting with antioxidants, it’s a deliciously refreshing option that’s perfect for any occasion and offers a healthful boost in every sip!
+
+water melon juice
+$60
+Our watermelon juice is a refreshing and hydrating drink, made from ripe, juicy watermelons. Naturally sweet and packed with hydration, it’s perfect for cooling down on a hot day or as a light, revitalizing treat anytime!
+
+pineapple juice
+$60
+Our pineapple juice is a tropical delight, made from freshly squeezed pineapples for a sweet and tangy flavor. Refreshingly smooth and packed with vitamins, it’s the perfect drink to brighten your day and transport you to paradise with every sip!
+
+lemon juice
+$40
+Our lemon juice is a zesty and refreshing drink, made from freshly squeezed lemons. Perfectly tart and invigorating, it’s ideal for quenching your thirst, enhancing dishes, or enjoying on its own as a revitalizing beverage!
+
+

@@ -1,0 +1,19 @@
+veg burger
+$60
+Our veg burger is a tasty, wholesome option featuring a flavorful veggie patty made from fresh vegetables and spices, served on a soft bun. Topped with crisp lettuce, juicy tomatoes, and creamy sauces, it’s a satisfying and delicious choice for anyone looking for a meatless meal!
+
+veg cheese burger
+$75
+Our veg cheese burger is a delightful treat, featuring a flavorful veggie patty topped with melted cheese, crisp lettuce, and fresh tomatoes, all nestled in a soft bun. Drizzled with tangy sauces, it’s a satisfying and cheesy option for burger enthusiasts!
+
+paneer burger
+$70
+Our paneer burger is a deliciously satisfying option, featuring a grilled paneer patty seasoned with spices, served on a soft bun. Topped with fresh lettuce, tomatoes, and zesty sauces, it’s a flavorful and hearty choice that’s sure to please paneer lovers!
+
+chicken burger
+$80
+Our chicken burger is a mouthwatering delight, featuring a juicy, grilled chicken patty seasoned to perfection, served on a soft bun. Topped with fresh lettuce, ripe tomatoes, and your choice of sauces, it’s a flavorful and satisfying option for any burger lover!
+
+chicken cheese burger
+$90
+Our chicken cheese burger is a delicious indulgence, featuring a juicy grilled chicken patty topped with melted cheese, crisp lettuce, and fresh tomatoes, all nestled in a soft bun. Drizzled with creamy sauces, it’s a flavorful and satisfying choice that’s perfect for cheese and chicken lovers alike!

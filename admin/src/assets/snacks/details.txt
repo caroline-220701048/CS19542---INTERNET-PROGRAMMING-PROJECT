@@ -1,0 +1,73 @@
+veg puff
+$20
+Our veg puff is a delicious, flaky pastry filled with a savory mix of spiced vegetables, including potatoes, peas, and carrots. Baked to golden perfection, it’s a delightful snack that’s crispy on the outside and bursting with flavor on the inside, making it perfect for any time of day!
+
+paneer puff
+$25
+Our paneer puff is a scrumptious pastry filled with a flavorful mixture of spiced paneer, herbs, and vegetables. Wrapped in a flaky, golden crust, it’s baked to perfection for a delightful snack that’s both crispy and satisfying, making it a must-try for paneer lovers!
+
+mushroom puff
+$25
+Our mushroom puff is a delightful pastry filled with a savory blend of sautéed mushrooms, herbs, and spices. Wrapped in a flaky, golden crust and baked to perfection, it’s a deliciously earthy and flavorful snack that’s perfect for any occasion!
+
+egg puff
+$25
+Our egg puff is a savory pastry filled with a spiced mixture of boiled eggs and flavorful seasonings. Encased in a flaky, golden crust, it’s baked to perfection for a delicious snack that’s satisfying and full of flavor, making it a great choice for egg lovers!
+
+chicken puff
+$30
+Our chicken puff is a delightful pastry filled with a savory mixture of tender, spiced chicken and aromatic herbs. Encased in a flaky, golden crust and baked to perfection, it’s a deliciously satisfying snack that’s perfect for any occasion, sure to please chicken lovers!
+
+paneer roll
+$40
+Our paneer roll is a delicious snack featuring spiced paneer wrapped in a soft, flaky tortilla or pastry. Grilled to perfection and often garnished with fresh veggies and tangy sauces, it’s a flavorful and satisfying treat that’s perfect for on-the-go enjoyment or a quick meal!
+
+veg roll
+$35
+Our veg roll is a tasty snack featuring a medley of fresh, spiced vegetables wrapped in a soft, flaky tortilla or pastry. Grilled to perfection and often served with tangy sauces, it’s a flavorful and satisfying treat that's perfect for a quick meal or a delightful on-the-go bite!
+
+chicken roll
+$50
+Our chicken roll is a savory delight featuring tender, spiced chicken wrapped in a soft, flaky tortilla or pastry. Grilled to perfection and often complemented with fresh veggies and zesty sauces, it’s a delicious and satisfying snack that’s perfect for any time of day!
+
+veg nuggets
+$50
+Our veg nuggets are a delightful snack made from a tasty blend of vegetables and spices, breaded and fried to golden perfection. Crispy on the outside and soft on the inside, they’re perfect for dipping in your favorite sauces and make a great appetizer or party treat!
+
+chicken nuggets
+$60
+Our chicken nuggets are a delicious treat made from tender pieces of chicken, breaded and fried to golden perfection. Crispy on the outside and juicy on the inside, they’re perfect for dipping in your favorite sauces and make a great snack or meal option for all chicken lovers!
+
+cheese balls
+$60
+Our cheese balls are a delightful snack made with creamy cheese, seasoned to perfection, and coated in a crispy breadcrumb layer. Fried until golden brown, they’re gooey on the inside and crunchy on the outside, making them the perfect cheesy indulgence for any occasion!
+
+chicken popcorn
+$75
+Our chicken popcorn is a flavorful snack featuring bite-sized pieces of tender chicken, seasoned and coated in a crispy, crunchy batter. Perfectly fried to golden perfection, these bite-sized morsels are great for dipping and make an irresistible treat for any chicken lover!
+
+samosa
+$20
+Our samosa is a delightful pastry filled with a savory mix of spiced potatoes, peas, and aromatic herbs. Wrapped in a crispy, golden-brown shell, these flavorful snacks are perfect for dipping in chutney and make an ideal appetizer or tea-time treat that’s sure to please everyone!
+
+doughnut
+$50
+Our doughnut is a soft, fluffy pastry that’s deep-fried to golden perfection and coated in a sweet glaze. With a variety of flavors and fillings, from classic sugar to rich chocolate or fruity jams, each bite is a delightful treat that’s perfect for breakfast, a snack, or dessert!
+
+cookies
+$40
+Our cookies are freshly baked delights, perfectly crisp on the outside and chewy on the inside. Available in a variety of flavors, from classic chocolate chip to oatmeal raisin, each cookie is made with quality ingredients for a deliciously sweet treat that's perfect for any time of day!
+
+muffins
+$50
+Our muffins are soft, fluffy delights baked to perfection, offering flavor like  chocolate chip. Each muffin is packed with delicious ingredients, making them a perfect grab-and-go snack or a delightful addition to your breakfast or tea time!
+
+veg cutlet
+$30
+Our veg cutlet is a flavorful snack made from a delicious blend of spiced vegetables and herbs, coated in a crispy breadcrumb layer. Fried to golden perfection, these cutlets are crispy on the outside and soft on the inside, making them a perfect appetizer or tea-time treat that everyone will enjoy!
+
+chicken cutlet
+$35
+Our chicken cutlet is a savory delight made from tender, spiced chicken mixed with aromatic herbs and coated in a crispy breadcrumb layer. Fried to golden perfection, these cutlets are juicy on the inside and crunchy on the outside, making them an irresistible appetizer or snack for any chicken lover!
+
+

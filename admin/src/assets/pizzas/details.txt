@@ -1,0 +1,27 @@
+veg pizza
+$75
+Our veg pizza is a colorful and tasty creation, topped with a variety of fresh vegetables like bell peppers, onions, tomatoes, and olives, all layered on a rich tomato sauce and gooey cheese. Baked to golden perfection on a crispy crust, it’s a delightful and satisfying option for veggie lovers!
+
+cheese pizza
+$80
+Our cheese pizza is a classic favorite, featuring a perfectly baked crust topped with a generous layer of rich tomato sauce and a blend of melted mozzarella cheese. With its gooey, cheesy goodness and a crispy edge, it’s the ultimate comfort food that’s sure to satisfy every cheese lover!
+
+corn pizza
+$75
+Our corn pizza is a delightful twist on a classic, featuring a crispy crust topped with sweet corn, rich tomato sauce, and gooey mozzarella cheese. Baked to perfection, it offers a burst of flavor with every bite, making it a delicious choice for corn lovers!
+
+mushroom pizza
+$85
+Our mushroom pizza is a savory delight, topped with fresh, sautéed mushrooms over a rich tomato sauce and melted mozzarella cheese. Baked on a crispy crust, it’s a flavorful and satisfying choice that’s perfect for mushroom enthusiasts!
+
+paneer pizza
+$85
+Our paneer pizza is a delicious fusion of flavors, featuring marinated paneer cubes paired with fresh vegetables on a rich tomato sauce and melted cheese. Baked to perfection on a crispy crust, it offers a delightful taste that’s sure to satisfy paneer lovers!
+
+chicken pizza
+$100
+Our chicken pizza is a hearty delight, topped with tender, seasoned chicken pieces, rich tomato sauce, and melted mozzarella cheese. Baked on a crispy crust and finished with fresh herbs, it’s a flavorful option that’s perfect for any meat lover!
+
+corn and chicken pizza
+$100
+Our corn and chicken pizza is a delicious combination of flavors, featuring tender chicken pieces and sweet corn atop a rich tomato sauce and melted mozzarella cheese. Baked to perfection on a crispy crust, it’s a satisfying choice that’s sure to please both chicken and corn lovers alike!

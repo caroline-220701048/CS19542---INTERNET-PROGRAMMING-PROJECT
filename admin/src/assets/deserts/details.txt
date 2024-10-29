@@ -1,0 +1,24 @@
+brownie
+$60
+Our brownie is a rich and fudgy treat, baked to perfection with a dense, chocolatey texture. With a crispy top and soft, chewy center, it’s a chocolate lover's dream that’s perfect for satisfying your sweet cravings!
+
+brownie with ice cream
+$70
+Our brownie with ice cream is a delightful dessert featuring a warm, fudgy brownie topped with a scoop of creamy vanilla ice cream. Drizzled with chocolate or caramel sauce, it’s a perfect combination of rich and refreshing, making it a must-try treat for dessert lovers!
+
+vanilla ice cream
+$40
+Our vanilla ice cream is a classic indulgence, made with rich cream and pure vanilla extract for a smooth, creamy texture. Perfectly sweet and incredibly versatile, it’s a delightful treat on its own or as a topping for your favorite desserts!
+
+chocolate ice cream
+$50
+Our chocolate ice cream is a decadent treat, crafted from rich cocoa and creamy ingredients for a smooth, velvety texture. Intensely chocolatey and utterly satisfying, it’s the perfect indulgence for any chocolate lover!
+
+strawberry ice cream
+$50
+Our strawberry ice cream is a delightful and refreshing treat, made with real strawberries for a burst of fruity flavor. Creamy and smooth, it’s perfect for satisfying your sweet tooth or enjoying on a warm day!
+
+oreo ice cream
+$60
+Our Oreo ice cream is a deliciously indulgent treat, featuring creamy vanilla ice cream swirled with chunks of crunchy Oreo cookies. Rich and satisfying, it’s a perfect combination of smooth and crunchy that every cookie lover will enjoy!
+
